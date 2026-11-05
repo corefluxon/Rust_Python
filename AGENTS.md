@@ -15,7 +15,7 @@ RustPython is a Python 3 interpreter written in Rust, targeting Python 3.15 with
 
 See the "Code organization" section in [CONTRIBUTING.md](CONTRIBUTING.md#code-organization) for the current directory layout.
 
-## AI Agent Rules
+
 
 **CRITICAL: AI Policy**
 
